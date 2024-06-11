@@ -1,0 +1,21 @@
+/*Seletores*/
+*{color: chartreuse;}
+h1 {color:red;}
+p{color: rgb(2, 2, 2); font-weight: bold;}
+button{background: green; border-color: darkgreen;}
+
+#eu{color: chocolate;font-size: 20px;}
+#euu{color: pink;background: red;border-color: burlywood;}
+.tu{color: gold;}
+
+/*cuidado para não esquecer de estilizar as clacificações (id,class) pois caso não 
+aplique todas as informações, oque ira prevalecer será o estilo da TAG*/
+
+
+
+
+
+
+
+
+

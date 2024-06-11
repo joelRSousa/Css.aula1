@@ -1,0 +1,36 @@
+/* position:fixed ex:é usado em menu etc /*
+/* position:stick funciona como uma figurinha mais podemos determinar um local para ele ficxar /*
+/* position:relative
+position por padrao e estetic */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+.div-dad{
+    margin-top: 200px;
+    opacity: 0.5;
+    position: sticky;
+    top: 20px;
+    height: 350px;
+    width: 350px;
+    background-color: blueviolet;
+}
+.div-son {
+    margin: 80px;
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
+.tana{
+    background-color: #8b0404;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
